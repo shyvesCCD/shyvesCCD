@@ -12,7 +12,9 @@ Front-end developer.
 
 ### 🌱 I’m currently learning:
 
-- Javascript(Vanilla)
+- HTML
+- CSS
+- Javascript
 - ReactJS
 - NodeJS
 
