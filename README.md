@@ -9,6 +9,8 @@ Front-end developer.
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/pedro-chaves-722682191/)](https://www.linkedin.com/in/pedro-chaves-722682191)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/shyves_js)](https://twitter.com/shyves_js)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-000000?style=flat-square&labelColor=FFFFFF&logo=instagram&logoColor=000000&link=https://www.instagram.com/pedro_chavin/)](https://www.instagram.com/pedro_chavin/)
+[![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:pedroochavess97@gmail.com)](mailto:pedroochavess97@gmail.com)
+
 
 ### 🌱 I’m currently learning:
 
