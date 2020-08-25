@@ -14,11 +14,11 @@ Software Developer.
 
 ### 🌱 I’m currently learning:
 
-- HTML
-- CSS
 - Javascript
 - ReactJS
+- ReactNative
 - NodeJS
+- Typescript
 
 
 
