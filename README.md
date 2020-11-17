@@ -2,7 +2,7 @@
 
 # 🚀 Pedro Chaves / shyvesCCD
 
-I am a student of computer science at the University of Brasilia. Always looking to learn and evolve.
+I am a student at the University of Brasilia. Always looking to learn and evolve.
 Software Developer.
 
 ## - 📫 How to reach me:
