@@ -1,5 +1,3 @@
-![unnamed](https://user-images.githubusercontent.com/54871907/89002575-dadbed00-d2d3-11ea-87b1-53c78129790d.gif)
-
 # 🚀 Pedro Chaves / shyvesCCD
 
 I am a student at the University of Brasilia. Always looking to learn and evolve.
