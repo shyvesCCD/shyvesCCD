@@ -1,4 +1,4 @@
-# 🚀 Pedro Chaves / shyvesCCD
+# 🚀 Pedro Chaves
 
 I am a student at the University of Brasilia. Always looking forward to learning and evolving.
 Software Developer.
@@ -15,7 +15,7 @@ Software Developer.
 - ReactNative
 - NodeJS
 - Typescript
-
+- Ruby on Rails
 
 
 
