@@ -1,5 +1,3 @@
-# 🚀 Pedro Chaves
-
 Hey,
 
 ## - 📫 How to reach me:
