@@ -1,4 +1,4 @@
-## Hey,
+## Hey, I'm Pedro Chaves
 
 📫 How to reach me:
 
