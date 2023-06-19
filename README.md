@@ -1,7 +1,6 @@
 ## Hey, I'm Pedro Chaves
 
 My stack currently are Nextjs, Nestjs and Javascript/Typescript.
-Currently learning Python.
 
 📫 How to reach me:
 
